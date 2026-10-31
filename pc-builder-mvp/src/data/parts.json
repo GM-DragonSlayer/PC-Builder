@@ -1,0 +1,167 @@
+{
+  "cpus": [
+    {
+      "id": "cpu-1",
+      "name": "Intel Core i5-13600K",
+      "socket": "LGA1700",
+      "tdp": 125,
+      "price": 299
+    },
+    {
+      "id": "cpu-2",
+      "name": "Intel Core i7-13700K",
+      "socket": "LGA1700",
+      "tdp": 125,
+      "price": 380
+    },
+    {
+      "id": "cpu-3",
+      "name": "Intel Core i9-14900K",
+      "socket": "LGA1700",
+      "tdp": 125,
+      "price": 589
+    },
+    {
+      "id": "cpu-4",
+      "name": "AMD Ryzen 5 7600X",
+      "socket": "AM5",
+      "tdp": 105,
+      "price": 229
+    },
+    {
+      "id": "cpu-5",
+      "name": "AMD Ryzen 7 7800X3D",
+      "socket": "AM5",
+      "tdp": 120,
+      "price": 449
+    },
+    {
+      "id": "cpu-6",
+      "name": "AMD Ryzen 9 7950X",
+      "socket": "AM5",
+      "tdp": 170,
+      "price": 549
+    }
+  ],
+  "motherboards": [
+    {
+      "id": "mb-1",
+      "name": "ASUS ROG Strix Z790-E Gaming",
+      "socket": "LGA1700",
+      "ramType": "DDR5",
+      "price": 349
+    },
+    {
+      "id": "mb-2",
+      "name": "Gigabyte Z790 Aorus Elite",
+      "socket": "LGA1700",
+      "ramType": "DDR5",
+      "price": 249
+    },
+    {
+      "id": "mb-3",
+      "name": "MSI PRO Z690-A DDR4",
+      "socket": "LGA1700",
+      "ramType": "DDR4",
+      "price": 189
+    },
+    {
+      "id": "mb-4",
+      "name": "MSI MAG B650 Tomahawk WiFi",
+      "socket": "AM5",
+      "ramType": "DDR5",
+      "price": 219
+    },
+    {
+      "id": "mb-5",
+      "name": "ASRock B650M Pro RS",
+      "socket": "AM5",
+      "ramType": "DDR5",
+      "price": 149
+    }
+  ],
+  "ram": [
+    {
+      "id": "ram-1",
+      "name": "Corsair Vengeance RGB 32GB (2x16GB)",
+      "type": "DDR5",
+      "price": 115
+    },
+    {
+      "id": "ram-2",
+      "name": "G.Skill Trident Z5 Neo 32GB",
+      "type": "DDR5",
+      "price": 125
+    },
+    {
+      "id": "ram-3",
+      "name": "Kingston Fury Beast 16GB",
+      "type": "DDR5",
+      "price": 75
+    },
+    {
+      "id": "ram-4",
+      "name": "Corsair Vengeance LPX 32GB (DDR4)",
+      "type": "DDR4",
+      "price": 85
+    }
+  ],
+  "gpus": [
+    {
+      "id": "gpu-1",
+      "name": "NVIDIA GeForce RTX 4060",
+      "tdp": 115,
+      "price": 299
+    },
+    {
+      "id": "gpu-2",
+      "name": "NVIDIA GeForce RTX 4070 Ti",
+      "tdp": 285,
+      "price": 799
+    },
+    {
+      "id": "gpu-3",
+      "name": "NVIDIA GeForce RTX 4090",
+      "tdp": 450,
+      "price": 1799
+    },
+    {
+      "id": "gpu-4",
+      "name": "AMD Radeon RX 7700 XT",
+      "tdp": 245,
+      "price": 419
+    },
+    {
+      "id": "gpu-5",
+      "name": "AMD Radeon RX 7800 XT",
+      "tdp": 263,
+      "price": 499
+    }
+  ],
+  "psus": [
+    {
+      "id": "psu-1",
+      "name": "Thermaltake Smart 600W",
+      "wattage": 600,
+      "price": 65
+    },
+    {
+      "id": "psu-2",
+      "name": "Seasonic Focus GX-750",
+      "wattage": 750,
+      "price": 119
+    },
+    {
+      "id": "psu-3",
+      "name": "Corsair RM850x 850W",
+      "wattage": 850,
+      "price": 139
+    },
+    {
+      "id": "psu-4",
+      "name": "EVGA SuperNOVA 1000 G5",
+      "wattage": 1000,
+      "price": 189
+    }
+  ]
+}
